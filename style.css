@@ -1,19 +1,14 @@
-body {
-	color:#000000;
-	background-color:#0f9bff;
-	margin:0;
+#helso {
+    text-align: center;
+    color: white;
 }
 
-#container {
-	margin-left:auto;
-	margin-right:auto;
-	text-align:center;
-	}
-
-a img {
-	border:none;
+#hmasodik {
+    text-align: center;
+    color: white;
 }
 
-.lelkesenlogo {
-	text-align: center;
+#discord {
+    text-align: center;
+    color: white;
 }
